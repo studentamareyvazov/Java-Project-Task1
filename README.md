@@ -14,7 +14,7 @@ This is my first Spring Boot web application for Vistula University, demonstrati
 - `GET /greeting?owner=Name` - Returns HTML page with dynamic name
 
 ## How to Run
-1. Clone repository: `https://github.com/studentamareyvazov/Java-Project-Task1.git`
+1. Clone repository: git clone https://github.com/studentamareyvazov/Java-Project-Task1.git
 2. Open in IntelliJ IDEA
 3. Run `FirstProjectJavaSpringApplication.java`
 4. Visit:
